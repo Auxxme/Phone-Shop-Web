@@ -1,2 +1,2 @@
 # Phone-Shop-Web
-This is Phone Shop website Project using HTML,Php, Css
+This is Phone Shop website Project using php ,HTML, Css
